@@ -8,10 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: eebc94aff2a729b4ea5d7e23ea67fddf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stage 1.unity
     guid: d805a4a941030eb4e9594626592faf26
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Stage 2.unity
     guid: 48da86a7bb19ced41b455e50ecce3345
+  - enabled: 1
+    path: Assets/Scenes/3DMaze 2.unity
+    guid: 2b6b7fb7a6282e743864bd575a3a78ac
+  - enabled: 1
+    path: Assets/Scenes/3DMaze 1.unity
+    guid: 8891e716fb8c1144c93a7e5575387348
   m_configObjects: {}
